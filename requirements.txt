@@ -1,2 +1,2 @@
 matplotlib==1.5.3
-tkinter==8.6
+tkinter
